@@ -1,0 +1,14 @@
+
+Kits:
+  VapexMC:
+    Permissions: kits.vapex
+  Vip:
+    Permissions: kits.vip
+    
+Stats:
+  Points:
+    Killer: 25
+    Player: 15 # Remove from the player 15 points when died
+
+Scoreboard:
+  IP: "play.sanhakmc.com"  

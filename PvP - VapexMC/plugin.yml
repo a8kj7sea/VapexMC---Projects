@@ -1,0 +1,9 @@
+name: VapexMCPvP
+author: Sanhak
+main: me.vapexmc.sanhak.pvp.main.VapexMCPvP
+version: 0.1
+commands:
+  setspawn:
+  reloadconfig:
+  fix:
+  stats:
