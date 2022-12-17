@@ -99,7 +99,7 @@ public class DeathEvent implements Listener {
 		Board.setBoard(k);
 
 		//add arrow to player
-		k.getInventory().addItem(KitManager.ArrowToKiller(p));
+		k.getInventory().addItem(KitManager.ArrowToKiller(k));
 		
 		// Send message to killer
 		k.sendMessage(VapexMCPvP.Prefix
